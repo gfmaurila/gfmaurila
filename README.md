@@ -10,7 +10,6 @@ Sou um desenvolvedor back-end com experiência em diversas tecnologias e prátic
 - **Bancos de Dados:**
   - **SQL:** SQL Server, Oracle, PostgreSQL, MySQL
   - **NoSQL:** MongoDB, Redis
-- **Outras ferramentas e tecnologias:** Outras que você deseja mencionar
 
 ## 📫 Como me encontrar
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjy19AugQHIhyE0Nv558jcQ)
