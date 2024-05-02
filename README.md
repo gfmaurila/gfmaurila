@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**gfmaurila/gfmaurila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
+Sou um desenvolvedor back-end com experiência em diversas tecnologias e práticas modernas de engenharia de software. Me especializo em C# e tenho uma sólida experiência com arquiteturas orientadas a domínio (DDD) e padrões CQRS.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens de Programação:** C#
+- **Padrões de Arquitetura:** DDD, CQRS
+- **Contêinerização:** Docker, Docker Compose
+- **Bancos de Dados:**
+  - **SQL:** SQL Server, Oracle, PostgreSQL, MySQL
+  - **NoSQL:** MongoDB, Redis
+- **Outras ferramentas e tecnologias:** Outras que você deseja mencionar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjy19AugQHIhyE0Nv558jcQ)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermemaurila-dev)
+- 📧 Email: gfmaurila@gmail.com
+
