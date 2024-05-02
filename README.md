@@ -5,7 +5,7 @@ Sou um desenvolvedor back-end com experiência em diversas tecnologias e prátic
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens de Programação:** C#
-- **Padrões de Arquitetura:** DDD, CQRS
+- **Padrões:** ​​.NET, DDD, CQRS, APIs RESTful
 - **Contêinerização:** Docker, Docker Compose
 - **Bancos de Dados:**
   - **SQL:** SQL Server, Oracle, PostgreSQL, MySQL
