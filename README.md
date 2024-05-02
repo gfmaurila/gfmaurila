@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme F Maurila! 👋
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre
 Sou um desenvolvedor back-end com experiência em diversas tecnologias e práticas modernas de engenharia de software. Me especializo em C# e tenho uma sólida experiência com arquiteturas orientadas a domínio (DDD) e padrões CQRS.
 
 ## 🛠️ Tecnologias e Ferramentas
