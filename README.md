@@ -21,40 +21,6 @@ Trabalho com foco em **qualidade de código, performance e escalabilidade**, e a
 
 ---
 
-### 🧠 Templates e Arquitetura
-
-- [🔧 nodejs.template.api](https://github.com/gfmaurila/nodejs.template.api)  
-  Template completo com Node.js + MongoDB + Redis + arquitetura CQRS inspirada em C#.
-
-- [📦 python.template.api](https://github.com/gfmaurila/python.template.api)  
-  Estrutura em Python (FastAPI) com arquitetura DDD, eventos e comandos, ideal para APIs escaláveis.
-
-- [💡 gfm.mediator.netcore9](https://github.com/gfmaurila/gfm.mediator.netcore9)  
-  Biblioteca alternativa ao MediatR para .NET Core 9 com CQRS, validação, eventos e pipelines.
-
----
-
-## 📊 GitHub Stats
-
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfmaurila&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfmaurila&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribuições Recentes
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gfmaurila&theme=tokyo-night)
-
----
-
-## 💼 Linha do Tempo Profissional
-
-- 🧱 **2023:** Foco em DDD, testes, CI/CD, mensageria e arquitetura escalável.
-- 🚀 **2024:** Criação de templates reutilizáveis para Node.js, Python e .NET.
-- 🏗️ **2025:** Projetos robustos em compliance bancário, PLD e plataformas SaaS white-label para prefeituras.
-
----
-
 ## 📫 Como me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Guilherme_Figueiras_Maurila-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-maurila)  
