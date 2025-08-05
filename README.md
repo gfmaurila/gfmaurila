@@ -2,38 +2,37 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor back-end com mais de 10 anos de experiência, especializado em **C#** e com forte atuação em projetos com **arquitetura DDD**, **padrão CQRS** e **boas práticas de engenharia de software**.
+Sou **desenvolvedor back-end especializado em C#**, com mais de 10 anos de experiência em projetos robustos, aplicando **arquitetura DDD**, **CQRS**, **eventos de domínio** e **práticas modernas de engenharia de software**.
 
-Atualmente, tenho explorado também **Node.js** e **Python**, aplicando os mesmos padrões e estruturas que utilizo em projetos C#.
-
-Gosto de construir **templates reutilizáveis**, escrever código limpo, performático e escalável. Também estou sempre aprendendo novas tecnologias e compartilhando conhecimento com a comunidade.
+Trabalho com foco em **qualidade de código, performance e escalabilidade**, e aplico o mesmo nível de excelência em projetos Node.js e Python com padrões inspirados em C#.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** C#, Node.js, Python
-- **Frameworks:** .NET, ASP.NET Core, FastAPI, Express
+- **Linguagens:** C# (principal), Node.js, Python
 - **Arquitetura:** DDD, CQRS, Event-Driven, Clean Architecture
-- **Banco de Dados:**
+- **Frameworks:** ASP.NET Core, FastAPI, Express.js
+- **Bancos de Dados:**
   - **SQL:** SQL Server, Oracle, PostgreSQL, MySQL
   - **NoSQL:** MongoDB, Redis
 - **Mensageria:** RabbitMQ, Kafka
-- **Contêineres:** Docker, Docker Compose
-- **DevOps:** GitHub Actions, Jenkins, OpenShift
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Jenkins, OpenShift
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### 🧠 Templates e Arquitetura
+
 - [🔧 nodejs.template.api](https://github.com/gfmaurila/nodejs.template.api)  
-  Template moderno Node.js com arquitetura baseada em DDD e CQRS, utilizando MongoDB, Redis e padrão C#.
+  Template completo com Node.js + MongoDB + Redis + arquitetura CQRS inspirada em C#.
 
 - [📦 python.template.api](https://github.com/gfmaurila/python.template.api)  
-  Projeto Python com FastAPI que simula uma estrutura back-end robusta com boas práticas e organização inspirada em C#.
+  Estrutura em Python (FastAPI) com arquitetura DDD, eventos e comandos, ideal para APIs escaláveis.
 
 - [💡 gfm.mediator.netcore9](https://github.com/gfmaurila/gfm.mediator.netcore9)  
-  Biblioteca para .NET Core 9 que oferece uma alternativa ao MediatR com suporte completo a CQRS, validação e eventos de domínio.
+  Biblioteca alternativa ao MediatR para .NET Core 9 com CQRS, validação, eventos e pipelines.
 
 ---
 
@@ -52,9 +51,9 @@ Gosto de construir **templates reutilizáveis**, escrever código limpo, perform
 
 ## 💼 Linha do Tempo Profissional
 
-- 🧱 **2023:** Consolidação em arquitetura DDD, testes automatizados, CI/CD e mensageria.
-- 🚀 **2024:** Criação de templates reutilizáveis para Node.js, Python e .NET com padrões sólidos.
-- 🏗️ **2025:** Projetos robustos em compliance bancário, PLD e soluções para prefeituras digitais.
+- 🧱 **2023:** Foco em DDD, testes, CI/CD, mensageria e arquitetura escalável.
+- 🚀 **2024:** Criação de templates reutilizáveis para Node.js, Python e .NET.
+- 🏗️ **2025:** Projetos robustos em compliance bancário, PLD e plataformas SaaS white-label para prefeituras.
 
 ---
 
@@ -68,5 +67,4 @@ Gosto de construir **templates reutilizáveis**, escrever código limpo, perform
 
 ---
 
-> ⭐️ Sinta-se à vontade para explorar meus repositórios, dar uma estrela ⭐ nos projetos que curtir e me chamar no LinkedIn para bater um papo sobre tecnologia!
-
+> ⭐️ Explore meus repositórios, marque com uma estrela ⭐ os projetos que gostar e me chame no LinkedIn para trocar ideias sobre tecnologia, arquitetura e desenvolvimento back-end!
