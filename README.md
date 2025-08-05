@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **desenvolvedor back-end especializado em C#**, com mais de 10 anos de experiência em projetos robustos, aplicando **arquitetura DDD**, **CQRS**, **eventos de domínio** e **práticas modernas de engenharia de software**.
+Sou **desenvolvedor back-end especializado em C#**, com mais de 20 anos de experiência em projetos robustos, aplicando **arquitetura DDD**, **CQRS**, **eventos de domínio** e **práticas modernas de engenharia de software**.
 
 Trabalho com foco em **qualidade de código, performance e escalabilidade**, e aplico o mesmo nível de excelência em projetos Node.js e Python com padrões inspirados em C#.
 
