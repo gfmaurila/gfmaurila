@@ -23,7 +23,7 @@ Trabalho com foco em **qualidade de código, performance e escalabilidade**, e a
 
 ## 📫 Como me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Guilherme_Figueiras_Maurila-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-maurila)  
+[![Linkedin](https://img.shields.io/badge/-Guilherme_Figueiras_Maurila-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermemaurila-dev)  
 [![Gmail](https://img.shields.io/badge/-gfmaurila@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gfmaurila@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjy19AugQHIhyE0Nv558jcQ)
 
