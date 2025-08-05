@@ -21,8 +21,6 @@ Trabalho com foco em **qualidade de código, performance e escalabilidade**, e a
 
 ---
 
-## 🚀 Projetos em Destaque
-
 ### 🧠 Templates e Arquitetura
 
 - [🔧 nodejs.template.api](https://github.com/gfmaurila/nodejs.template.api)  
